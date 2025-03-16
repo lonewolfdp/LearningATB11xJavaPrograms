@@ -2,8 +2,7 @@ package ex_02_java_Basic_11_March;
 
 public class PrintfAssignment {
     public static void main(String[] args) {
-        int a= 9;
-        int b= 1;
+        int a= 9, b=1;
 
         System.out.printf("9 x 1 = %d %n", a*b);
         System.out.printf("9 x 2 = %d %n", a*2);
