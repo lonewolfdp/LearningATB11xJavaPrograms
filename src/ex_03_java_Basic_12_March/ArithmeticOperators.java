@@ -1,4 +1,4 @@
-package ex_02_java_Basic_12_March;
+package ex_03_java_Basic_12_March;
 
 public class ArithmeticOperators {
     public static void main(String[] args) {
